@@ -1,0 +1,15 @@
+accelerate
+argparse
+json
+multiprocessing
+multiprocess==0.70.14
+numpy==1.21.5
+os
+pandas==1.4.0
+random
+rank_bm25
+sentencepiece
+sklearn==0.0
+torch==1.13.1
+tqdm==4.62.3
+transformers==4.16.2
